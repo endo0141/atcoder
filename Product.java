@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Product {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         //スペース区切りの入力
